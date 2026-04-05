@@ -1,5 +1,7 @@
 # MavonEngine - The Three.js Game Engine for Single / Multiplayer Browser Games
 
+<img src="https://mavonengine.com/community/assets/site-image-kipwrzwn.png" alt="Threejs game engine"  />
+
 MavonEngine is a full-stack **Three.js game engine** purpose-built for single player or real-time multiplayer.
 Most browser game engines treat networking as an add-on. MavonEngine ships with it built in —
 rendering, physics, networking, animation, particles, and debugging in one cohesive TypeScript package.
